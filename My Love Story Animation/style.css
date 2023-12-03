@@ -1,0 +1,13 @@
+.button{
+    background:purple;
+    font-size: 18px;
+    padding: 5px 15px;
+    color: white;
+    border-radius: 38px;
+  
+    
+}
+
+#face2{
+    display:none;
+}
